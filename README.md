@@ -132,6 +132,11 @@ _Note_: preview will be generated using [ANSI Escape Sequences][3]
 
 ![Screenshot](screenshots/belafonte_night.png)
 
+### BigSur Special Pastel ([download](<https://raw.githubusercontent.com/lysyi3m/macos-terminal-themes/master/themes/BigSur-Special-pastel.terminal>))
+
+![Screenshot](screenshots/BigSur-Special-pastel.png)
+
+
 ### BirdsOfParadise ([download](<https://raw.githubusercontent.com/lysyi3m/macos-terminal-themes/master/themes/BirdsOfParadise.terminal>))
 
 ![Screenshot](screenshots/birdsofparadise.png)
